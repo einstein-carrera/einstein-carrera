@@ -1,4 +1,4 @@
-# 👋 Hola, soy Einstein Carrera
+# 👋 Hola, soy Einstein 
 
 🎓 Estudiante de Ingeniería de Sistemas   
 📊 Enfocado en Ciencia de Datos y Automatización  
