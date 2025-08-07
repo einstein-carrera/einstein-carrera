@@ -1,4 +1,4 @@
-##  Sobre mí
+##  Soy Einstein
 
 Soy estudiante de **Ingeniería de Sistemas** con enfoque en **Ciencia de Datos** y **Automatización de Procesos**. Desarrollo proyectos aplicando análisis de datos y visualización efectiva.
 
