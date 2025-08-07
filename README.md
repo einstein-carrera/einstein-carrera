@@ -1,18 +1,25 @@
 # 👋 Hola, soy Einstein 
 
-🎓 Estudiante de Ingeniería de Sistemas   
-📊 Enfocado en Ciencia de Datos y Automatización  
-🧠 Aprendiendo: Python, SQL, Power BI  
-🚀 Buscando prácticas como Data Analyst o Data Generalist
+Soy estudiante de Ingeniería de Sistemas con fuerte interés en la Ciencia de Datos, Automatización y Visualización de Información.
 
----
+🛠️ Habilidades aplicadas:
+Python para análisis y automatización
 
-### 🚧 Proyectos en curso:
-- Análisis de datos COVID-19 con Python
-- Dashboard de ventas en Power BI
-- Consultas SQL sobre base de empleados
+SQL para manejo y consulta de bases de datos
 
----
+Power BI para creación de dashboards interactivos
 
-### 📫 Conecta conmigo:
-[LinkedIn](https://linkedin.com/in/einsteincarrerachavez) | [GitHub](https://github.com/einstein-data)
+Git y GitHub para control de versiones y colaboración
+
+🚀 Buscando oportunidades:
+Prácticas preprofesionales como Data Analyst o Data Generalist, donde pueda aplicar mis habilidades en proyectos reales.
+
+📂 Proyectos en curso:
+📊 Análisis COVID-19 con Python
+
+📈 Dashboard de ventas en Power BI
+
+🗂️ Consultas SQL sobre base de empleados
+
+🌐 Conecta conmigo:
+LinkedIn | GitHub
