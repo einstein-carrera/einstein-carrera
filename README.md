@@ -1,25 +1,33 @@
-# 👋 Hola, soy Einstein 
+##  Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas con fuerte interés en la Ciencia de Datos, Automatización y Visualización de Información.
+Soy estudiante de **Ingeniería de Sistemas** con enfoque en **Ciencia de Datos** y **Automatización de Procesos**. Desarrollo proyectos aplicando análisis de datos y visualización efectiva.
 
-🛠️ Habilidades aplicadas:
-Python para análisis y automatización
+**Herramientas que manejo**:
+- Python (Pandas, Matplotlib, Seaborn)  
+- SQL (consultas y modelado)  
+- Power BI (dashboards interactivos)  
+- Git y GitHub (control de versiones)
 
-    SQL para manejo y consulta de bases de datos
-    
-    Power BI para creación de dashboards interactivos
-    
-    Git y GitHub para control de versiones y colaboración
+Busco oportunidades como **Data Analyst** o **Data Generalist** donde pueda generar impacto desde el comienzo.
 
-🚀 Buscando oportunidades:
-Prácticas preprofesionales como Data Analyst o Data Generalist, donde pueda aplicar mis habilidades en proyectos reales.
+---
 
-    📂 Proyectos en curso:
-    📊 Análisis COVID-19 con Python
-    
-    📈 Dashboard de ventas en Power BI
-    
-    🗂️ Consultas SQL sobre base de empleados
+##  Proyectos destacados
 
-🌐 Conecta conmigo:
-LinkedIn | GitHub
+| Proyecto | Descripción |
+|----------|-------------|
+| [Análisis COVID‑19 con Python](https://github.com/tu_usuario/covid19-data-analysis) | Exploración y visualización del comportamiento del COVID‑19 en Perú y países vecinos. |
+| [Dashboard de ventas con Power BI](https://github.com/tu_usuario/dashboard-ventas) | Visualización interactiva de indicadores de ventas. *(En desarrollo)* |
+| [Consultas SQL – Base de empleados](https://github.com/tu_usuario/consultas-sql-empleados) | Conjunto de consultas SQL prácticas para análisis organizacional. |
+
+*Pronto más proyectos…*
+
+---
+
+##  Conectemos
+
+| Plataforma | Enlace |
+|------------|--------|
+| LinkedIn   | [tu perfil](https://www.linkedin.com/in/tu-usuario) |
+| GitHub     | [tu perfil](https://github.com/tu_usuario) |
+
