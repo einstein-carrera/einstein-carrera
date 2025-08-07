@@ -2,7 +2,7 @@
 
 Soy estudiante de **Ingeniería de Sistemas** con enfoque en **Ciencia de Datos** y **Automatización de Procesos**. Desarrollo proyectos aplicando análisis de datos y visualización efectiva.
 
-**Herramientas que manejo**:
+**Herramientas**:
 - Python (Pandas, Matplotlib, Seaborn)  
 - SQL (consultas y modelado)  
 - Power BI (dashboards interactivos)  
@@ -18,7 +18,7 @@ Busco oportunidades como **Data Analyst** o **Data Generalist** donde pueda gene
 |----------|-------------|
 | [Análisis COVID‑19 con Python](https://github.com/tu_usuario/covid19-data-analysis) | Exploración y visualización del comportamiento del COVID‑19 en Perú y países vecinos. |
 | [Dashboard de ventas con Power BI](https://github.com/tu_usuario/dashboard-ventas) | Visualización interactiva de indicadores de ventas. *(En desarrollo)* |
-| [Consultas SQL – Base de empleados](https://github.com/tu_usuario/consultas-sql-empleados) | Conjunto de consultas SQL prácticas para análisis organizacional. |
+| [Consultas SQL – Base de empleados](https://github.com/tu_usuario/consultas-sql-empleados) | Conjunto de consultas SQL prácticas para análisis organizacional.*(En desarrollo)*|
 
 *Pronto más proyectos…*
 
