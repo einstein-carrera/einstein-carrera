@@ -1,6 +1,6 @@
 # 👋 Hola, soy Einstein Carrera
 
-🎓 Estudiante de Ingeniería de Sistemas (UTP)  
+🎓 Estudiante de Ingeniería de Sistemas   
 📊 Enfocado en Ciencia de Datos y Automatización  
 🧠 Aprendiendo: Python, SQL, Power BI  
 🚀 Buscando prácticas como Data Analyst o Data Generalist
