@@ -18,7 +18,7 @@ Busco oportunidades como **Data Analyst** o **Data Generalist** donde pueda gene
 |----------|-------------|
 | [Análisis COVID‑19 con Python](https://github.com/einstein-data/covid19-data-analysis) | Exploración y visualización del comportamiento del COVID‑19 en Perú y países vecinos. |
 | [Dashboard de ventas con Power BI](https://github.com/einstein-data/Dashboard-Ventas-Power-BI) | Visualización interactiva de indicadores de ventas.|
-| [Consultas SQL – Base de empleados](https://github.com/tu_usuario/consultas-sql-empleados) | Conjunto de consultas SQL prácticas para análisis organizacional.*(En desarrollo)*|
+| [Consultas SQL – Base de empleados](https://github.com/tu_usuario/consultas-sql-empleados) | Conjunto de consultas SQL prácticas para análisis organizacional.|
 
 *Pronto más proyectos…*
 
