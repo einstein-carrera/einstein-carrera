@@ -11,10 +11,10 @@ Enfocado en transformar datos en insights accionables.
 - **Control de versiones**: Git, GitHub
 
 ## 📊 Proyectos destacados
-- [Análisis COVID-19](link-real) - Exploración de tendencias epidemiológicas
-- [Dashboard de Ventas](link-real) - KPIs comerciales interactivos
-- [Consultas SQL](link-real) - Gestión de base de empleados
+- [Análisis COVID-19](https://github.com/einstein-carrera/covid19-data-analysis)
+- [Dashboard de Ventas](https://github.com/einstein-carrera/Dashboard-Ventas-Power-BI)  
+- [Consultas SQL](https://github.com/einstein-carrera/Consultas-SQL-Base-de-empleados)
 
 ## 📫 Contacto
-- LinkedIn: [einstein-carrera](tu-linkedin-real)
+- LinkedIn: [einstein-carrera](https://www.linkedin.com/in/einsteincarrerachavez/)
 - Email: einstein.carrerachavez@gmail.com
