@@ -2,7 +2,7 @@
  
 Estudiante de **Ingeniería de Sistemas** con enfoque en **Ciencia de Datos** y **Automatización de Procesos**. Desarrollo proyectos aplicando análisis de datos y visualización efectiva.
 
-**Herramientas**:
+**Herramientas**: 
 - Python (Pandas, Matplotlib, Seaborn)  
 - SQL (consultas y modelado)  
 - Power BI (dashboards interactivos)  
@@ -12,7 +12,7 @@ Busco oportunidades como **Data Analyst** o **Data Generalist** donde pueda gene
 
 ---
 
-##  Proyectos destacados
+##  Proyectos destacados 
 
 | Proyecto | Descripción |
 |----------|-------------|
