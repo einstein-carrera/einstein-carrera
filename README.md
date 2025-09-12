@@ -1,4 +1,4 @@
-# Einstein Carrera
+# Einstein Carrera 
 **Analista de Datos Junior | Python • SQL • Power BI**
 
 Estudiante de Ingeniería de Sistemas especializado en análisis de datos y visualización. 
