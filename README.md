@@ -1,33 +1,20 @@
-##  Soy Einstein 
- 
-Estudiante de **Ingeniería de Sistemas** con enfoque en **Ciencia de Datos** y **Automatización de Procesos**. Desarrollo proyectos aplicando análisis de datos y visualización efectiva.
+# Einstein Carrera
+**Analista de Datos Junior | Python • SQL • Power BI**
 
-**Herramientas**: 
-- Python (Pandas, Matplotlib, Seaborn)  
-- SQL (consultas y modelado)  
-- Power BI (dashboards interactivos)  
-- Git y GitHub (control de versiones)
+Estudiante de Ingeniería de Sistemas especializado en análisis de datos y visualización. 
+Enfocado en transformar datos en insights accionables.
 
-Busco oportunidades como **Data Analyst** o **Data Generalist** donde pueda generar impacto desde el comienzo.
+## 🛠 Herramientas
+- **Python**: Pandas, Matplotlib, Seaborn
+- **Bases de datos**: SQL Server, consultas avanzadas  
+- **Visualización**: Power BI, dashboards interactivos
+- **Control de versiones**: Git, GitHub
 
----
+## 📊 Proyectos destacados
+- [Análisis COVID-19](link-real) - Exploración de tendencias epidemiológicas
+- [Dashboard de Ventas](link-real) - KPIs comerciales interactivos
+- [Consultas SQL](link-real) - Gestión de base de empleados
 
-##  Proyectos destacados 
-
-| Proyecto | Descripción |
-|----------|-------------|
-| [Análisis COVID‑19 con Python](https://github.com/einstein-data/covid19-data-analysis) | Exploración y visualización del comportamiento del COVID‑19 en Perú y países vecinos. |
-| [Dashboard de ventas con Power BI](https://github.com/einstein-data/Dashboard-Ventas-Power-BI) | Visualización interactiva de indicadores de ventas.|
-| [Consultas SQL – Base de empleados](https://github.com/einstein-data/Consultas-SQL-Base-de-empleados) | Conjunto de consultas SQL prácticas para análisis organizacional.|
-
-*Pronto más proyectos…*
-
----
-
-##  Conectemos
-
-| Plataforma | Enlace |
-|------------|--------|
-| LinkedIn   | [tu perfil](https://www.linkedin.com/in/einsteincarrerachavez) |
-| GitHub     | [tu perfil](https://github.com/einstein-data) |
-
+## 📫 Contacto
+- LinkedIn: [einstein-carrera](tu-linkedin-real)
+- Email: einstein.carrerachavez@gmail.com
