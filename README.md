@@ -1,7 +1,12 @@
 # Einstein Carrera 
 **Analista de Datos Junior | Python • SQL • Power BI**
 
-Estudiante de Ingeniería de Sistemas con conocimientos aplicados en análisis de datos usando Python, SQL y Power BI. En transición hacia análisis de datos, enfocado en análisis exploratorio y visualización de métricas. Busco aplicar habilidades analíticas para generar insights que impulsen decisiones de negocio.
+Estudiante de Ingeniería de Sistemas con 5+ años en soporte técnico y asesoría comercial, donde optimicé procesos de resolución de incidencias logrando mejoras notables en los tiempos de respuesta y aumenté la recurrencia de clientes en un 40% mediante análisis de patrones.
+
+Hoy aplico esa experiencia resolviendo problemas con Python, SQL y Power BI en el campo del análisis de datos. Mi ventaja: comprendo tanto el lado técnico como las necesidades comerciales, aportando soluciones prácticas y estratégicas.
+
+Listo para contribuir en equipos que conviertan datos complejos en decisiones claras.
+
 
 ## 🛠 Herramientas
 - **Python**: Pandas, Matplotlib, Seaborn
